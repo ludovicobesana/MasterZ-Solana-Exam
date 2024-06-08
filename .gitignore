@@ -1,0 +1,5 @@
+node_modules/
+dist/
+wallet.json
+mint.json
+recipient_wallet.json
