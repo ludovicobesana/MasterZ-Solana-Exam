@@ -90,12 +90,6 @@ Run `reset.ts` to reset the project status:
 npm run reset:project
 ```
 
-Example
-
-```bash
-npm run transfer:tokens FEdxTQnAzmXmSLfp3W2sfwYP8f3fJhdQxYfBQ3aVZAwQ 1000
-```
-
 ## Verifying Wallet Balance
 
 To verify the balance of a wallet, use the following command:
